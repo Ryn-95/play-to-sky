@@ -1,0 +1,494 @@
+git
+git
+node app.js
+node app.js
+# installs nvm (Node Version Manager)
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+# download and install Node.js
+nvm install 22
+# verifies the right Node.js version is in the environment
+node -v # should print `v22.2.0`
+# verifies the right NPM version is in the environment
+npm -v # should print `10.7.0`
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew update
+brew install node
+brew update
+brew install node
+brew update
+brew install node
+brew install node
+node -v
+npm -v
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew --version
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+(echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/rayanemouhajer/.zprofile
+eval "$(/opt/homebrew/bin/brew shellenv)"
+brew --version
+brew install wget
+brew update
+brew upgrade
+brew search git
+node --version
+brew install node
+npm install bagit
+node --version
+npm -v
+npm init
+npm init
+node -v
+brew list
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+eval "$(/opt/homebrew/bin/brew shellenv)"
+eval "$(/opt/homebrew/bin/brew shellenv)"
+eval "$(/opt/homebrew/bin/brew shellenv)"
+echo $PATH
+npm init
+npm init
+yes
+npm init
+npm init
+node -v
+node -v
+ node -v 
+node -v
+echo $PATH
+export PATH="/usr/local/bin:$PATH"
+node -v
+node -v
+npm -v
+ node -v
+node -v
+npx create-react-app mon-projet
+cd mon-projet
+npm start
+npm install --save-dev @babel/plugin-proposal-private-property-in-object
+npm uninstall @babel/plugin-proposal-private-property-in-object
+npm install --save-dev @babel/plugin-transform-private-property-in-object
+cd mon-projet
+npm start
+cd mon-projet
+npm start
+cd mon-projet
+npm start
+npm init react-app mon-projet
+cd my-app/src
+vyuhijokp
+tfgyhujiko
+oiuyghuijkolp^m$ù
+jjj
+i)ii
+iiiiiii
+iiiiiiiii
+iiiii
+iiiiii
+`
+
+
+
+
+
+
+
+
+
+vuyibuonp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mlkjhgfdtcyvuiop^$
+
+
+
+
+ll
+llkl
+kk
+lkkpo,jinphuobyivutcyrfxterwzetyu
+hgtyftdrcu$
+HUGYF
+GYHUJI
+J0O
+KP
+/Library/PostgreSQL/16/scripts/runpsql.sh; exit
+git branch
+export NODE_OPTIONS=--openssl-legacy-provider
+nvm install node --reinstall-packages-from=node
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvmexport NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvmsource ~/.bashrc
+source ~/.zshrc
+nvm install 18.2.0
+nvm use 18.2.0
+npm install
+rm -rf node_modules
+rm package-lock.json
+npm install
+npm ls react
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm install styled-components
+npm start
+npm start
+tree -L 2
+npm install
+npm start
+npm start
+npm ls react
+npm start
+npm start
+npm start
+rm -rf node_modules
+rm package-lock.json
+/Library/PostgreSQL/16/scripts/runpsql.sh; exit
+CREATE DATABASE task_management_db;
+/Library/PostgreSQL/16/scripts/runpsql.sh; exit
+/Library/PostgreSQL/16/scripts/runpsql.sh; exit
+/Library/PostgreSQL/16/scripts/runpsql.sh; exit
+/Library/PostgreSQL/16/scripts/runpsql.sh; exit
+/Library/PostgreSQL/16/scripts/runpsql.sh; exit
+/Library/PostgreSQL/16/scripts/runpsql.sh; exit
+npx sequelize-cli migration:generate --name create-user
+npx sequelize-cli db:migrate
+npx sequelize-cli db:migrate
+npm install jsonwebtoken bcryptjs
+mkdir middleware
+node app.js
+node app.js
+/Library/PostgreSQL/16/scripts/runpsql.sh; exit
+/Library/PostgreSQL/16/scripts/runpsql.sh; exit
+curl -X POST http://localhost:3000/api/tasks      -H "Content-Type: application/json"      -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NiwiaWF0IjoxNzIxNTg1MjM1LCJleHAiOjE3MjE1ODg4MzV9.lMXlhiHrKmQ9CvkxnsDdmTItunDpJoHPMsleljUki6c"      -d '{"title": "Test Task", "description": "Test Description"}'
+/Library/PostgreSQL/16/scripts/runpsql.sh; exit
+whois stoparnaque.com
+whois stoparnaque.com
+ping
+sudo /usr/local/mysql/support-files/mysql.server start
+sudo cat /usr/local/mysql/data/OrdinatdeRayane.lan.err
+mysql --version
+ls /usr/local/mysql
+nano ~/.zshrc
+source ~/.zshrc
+nano ~/.zshrc
+nano ~/.zshrc
+source ~/.zshrc
+echo $PATH
+mysql --version
+mysql -u root -p
+mysql -u root -p
+ls /usr/local/mysql/bin
+nano ~/.zshrc
+mysql --version
+nano ~/.zshrc
+source ~/.zshrc
+nano ~/.zshrc
+source ~/.zshrc
+nano ~/.zshrc
+source ~/.zshrc
+nano ~/.zshrc
+source ~/.zshrc
+echo $PATH
+nano ~/.zshrc
+source ~/.zshrc
+mysql --version
+mysql -u root -p
+mysql -u root -p --default-character-set=utf8mb4 filmsdb < /path/to/BDD_existant_film.sql
+/Users/rayanemouhajer/Downloads/BDD_existant_film.sql
+ls /Users/rayanemouhajer/Downloads/
+mysql -u root -p --default-character-set=utf8mb4 filmsdb < /Users/rayanemouhajer/Downloads/BDD\ existante\ film.sql
+nano /Users/rayanemouhajer/Downloads/BDD\ existante\ film.sql
+mysql -u root -p --default-character-set=utf8mb4 filmsdb < /Users/rayanemouhajer/Downloads/BDD\ existante\ film.sql
+mysql -u root -p
+mysql -u root -p --default-character-set=utf8mb4 filmsdb < /Users/rayanemouhajer/Downloads/BDD\ existante\ film.sql
+USE filmsdb;
+EXIT
+USE filmsdb;
+mysql -u root -p
+mysql -u root -p --default-character-set=utf8mb4 filmsdb < /Users/rayanemouhajer/Downloads/BDD\ existante\ film.sql
+EXIT
+mysql -u root -p
+mysql -u root -p
+mysql -u root -p --default-character-set=utf8mb4 filmsdb < /Users/rayanemouhajer/Downloads/BDD\ existante\ film.sql
+mysql -u root -p --default-character-set=utf8mb4 filmsdb < /Users/rayanemouhajer/Downloads/BDD\ existante\ film.sql
+mysql -u root -p
+mysql -u root -p
+Ordinateur-portable-de-Rayane:~ rayanemouhajer$ mysql -u root -p
+-bash: mysql: command not found
+Ordinateur-portable-de-Rayane:~ rayanemouhajer$ 
+nano ~/.zshrc
+source ~/.zshrc
+echo $PATH
+mysql -u root -p
+mysql -u root -p -e "USE filmsdb; DROP TABLE IF EXISTS artiste, film, internaute, notation, notemoyenne, pays, role;"
+mysql -u root -p -e "USE filmsdb; DROP TABLE IF EXISTS artiste, film, internaute, notation, notemoyenne, pays, role;"
+mysql -u root -p --default-character-set=utf8mb4 filmsdb < /Users/rayanemouhajer/Downloads/BDD\ existante\ film.sql
+mysql -u root -p
+mysql -u root -p --default-character-set=utf8mb4 filmsdb < /Users/rayanemouhajer/Downloads/BDD\ existante\ film.sql
+mysql -u root -p
+mysql -u root -p --default-character-set=utf8mb4 filmsdb < /Users/rayanemouhajer/Downloads/BDD\ existante\ film.sql
+mysql -u root -p
+mysql -u root -p --default-character-set=utf8mb4 filmsdb < /path/to/role_table.sql
+mysql -u root -p --default-character-set=utf8mb4 filmsdb < /Users/rayanemouhajer/Downloads/role_table.sql
+mysql -u root -p
+mysql -u root -p --default-character-set=utf8mb4 filmsdb < /Users/rayanemouhajer/Downloads/role_table.sql
+mysql -u root -p
+mysql -u root -p
+mysql -u root -p
+mysql -u root -p
+mysql --version
+brew services list
+export PATH="/usr/local/mysql/bin:$PATH"
+brew services start mysql
+mysql -u root -p
+export PATH="/usr/local/mysql/bin:$PATH"
+mysql -u root -p
+cd /path/to/your/project
+cd Documents
+mkdir SQL_Exercises
+cd SQL_Exercises
+git init
+echo "# SQL Exercises" > README.md
+nano SQL_Queries.sql
+git add .
+git commit -m "Ajout des requêtes SQL"
+git remote add origin https://github.com/Ryn-95/SQL_Exercises.git
+git push -u origin master
+export PATH="/usr/local/mysql/bin:$PATH"
+mysql -u root -p
+export PATH="/usr/local/mysql/bin:$PATH"
+mysql -u root -p
+docker --version
+brew install php
+brew install php
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zshrc
+eval "$(/opt/homebrew/bin/brew shellenv)"
+brew doctor
+brew install php
+php --version
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+mv composer.phar /usr/local/bin/composer
+curl -sS https://get.symfony.com/cli/installer | bash
+mv /Users/rayanemouhajer/.symfony5/bin/symfony /usr/local/bin/symfonysymfony new mon_projet --full
+mv /Users/rayanemouhajer/.symfony5/bin/symfony /usr/local/bin/symfony
+symfony
+symfony new mon_projet --full
+composer -V
+php -v
+brew install php
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew install php
+eval "$(/opt/homebrew/bin/brew shellenv)"
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zshrc
+source ~/.zshrc
+brew doctor
+brew install php
+php -v
+composer -V
+symfony new mon_agence_marketing --full
+cd mon_agence_marketing
+symfony server:start
+symfony new RDigital --full
+symfony new RDigitalNew --full
+composer update
+php --ini
+Found 2 security vulnerability advisories affecting 2 packages.
+Run "composer audit" for a full list of advisories.
+OrdinatdeRayane:RDigital rayanemouhajer$ php --ini
+Configuration File (php.ini) Path: /opt/homebrew/etc/php/8.3
+Loaded Configuration File:         /opt/homebrew/etc/php/8.3/php.ini
+Scan for additional .ini files in: /opt/homebrew/etc/php/8.3/conf.d
+Additional .ini files parsed:      /opt/homebrew/etc/php/8.3/conf.d/ext-opcache.ini
+# Attention : Cette commande supprime tous les fichiers dans le répertoire!
+rm -rf RDigital/*
+rm -rf RDigital/.* 2> /dev/null
+# Crée ensuite le projet Symfony
+symfony new RDigital --full
+cd RDigital
+git init
+git add .
+git commit -m "Archive current state of project before creating new Symfony project"
+cd RDigital
+git init
+git add .
+git commit -m "Archive current state of project before creating new Symfony project"
+symfony server:start
+mkdir Rdigital
+cd Rdigital
+curl -sS https://get.symfony.com/cli/installer | bash
+symfony new backend --webapp
+cd backend
+ symfony serve
+docker-compose exec db psql -U symfony -d postgres
+docker exec -it symfony_db psql -U symfony -d postgres
+docker exec -it symfony_db psql -U symfony -d postgres
+docker-compose exec app php bin/console doctrine:migrations:list
+pwd
+cd /Users/rayanemouhajer/Rdigital
+ls
+docker-compose exec app php bin/console doctrine:migrations:list
+docker-compose exec app php bin/console doctrine:migrations:migrate
+docker exec -it symfony_db psql -U symfony -d symfony
+docker-compose down
+docker-compose up -d
+docker-compose down
+docker-compose up -dcd /Users/rayanemouhajer/Rdigital
+cd /Users/rayanemouhajer/Rdigital
+ls
+docker-compose down
+docker-compose up -d
+docker-compose down
+docker-compose up -d
+docker-compose exec app ping db
+docker exec -it symfony_db psql -U symfony -d symfony
+docker-compose exec app php bin/console doctrine:migrations:migrate
+docker-compose exec app php bin/console doctrine:migrations:status
+docker-compose exec app php bin/console doctrine:migrations:status
+docker-compose exec app apt-get update && apt-get install iputils-ping -y
+cd Rdigital
+code /Users/rayanemouhajer/Rdigital
+composer create-project symfony/skeleton:"7.0.*" Rdigital
+php -v
+brew install php
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+export PATH="/usr/local/bin:$PATH"
+source ~/.zshrc   # Si vous utilisez zsh
+source ~/.bash_profile   # Si vous utilisez bash
+export PATH="/usr/local/bin:$PATH"
+export PATH="/usr/local/bin:$PATH"
+source ~/.bash_profile
+brew install php
+php -v
+brew install composer
+composer --version
+composer create-project symfony/skeleton:"7.0.*" Rdigital
+rm -rf Rdigital
+composer create-project symfony/skeleton:"7.0.*" Rdigital
+cd Rdigital
+composer create-project symfony/skeleton:"7.0.*" Rdigital
+composer create-project symfony/skeleton:"7.0.*" Rdigital
+brew link --overwrite php
+brew list php
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+eval "$(/opt/homebrew/bin/brew shellenv)"
+eval "$(/opt/homebrew/bin/brew shellenv)"export PATH="/opt/homebrew/bin:$PATH"
+source ~/.bash_profile
+brew --version
+brew install php
+php -v
+composer create-project symfony/skeleton:"7.0.*" Rdigital
+composer require webapp
+docker-compose restart php
+shopify theme init my-new-theme
+brew -v
+brew -v
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew tap shopify/shopify
+brew tap shopify/shopify
+eval "$(/opt/homebrew/bin/brew shellenv)"
+nano ~/.zshrc
+nano ~/.zshrc
+source ~/.zshrc
+brew -v
+brew tap shopify/shopify
+brew install shopify-cli
+shopify version
+sudo rm -rf /Library/Developer/CommandLineTools
+sudo xcode-select --install
+xcode-select -p
+brew tap shopify/shopify
+brew install shopify-cli
+shopify version
+https://admin.shopify.com/store/v9zudt-zd
+shopify login --store v9zudt-zd.myshopify.com
+shopify auth login --store v9zudt-zd.myshopify.com
+shopify auth login --store v9zudt-zd.myshopify.com
+shopify help
+shopify login
+shopify theme init my-new-theme
+cd my-new-theme
+shopify theme serve
+cd my-new-theme
+────────────────────────────────────────────╮
+│                                                                              │
+│  Shopify authentication complete                                             │
+│                                                                              │
+│  You are logged in to Ma boutique as rynmhj44@gmail.com                      │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+Ordinateur-portable-de-Rayane:~ rayanemouhajer$ shopify theme init my-new-theme
+Ordinateur-portable-de-Rayane:~ rayanemouhajer$ cd my-new-theme
+Ordinateur-portable-de-Rayane:my-new-theme rayanemouhajer$ shopify theme serve
+╭─ warning ────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│  The `shopify theme serve` command is deprecated.                            │
+│                                                                              │
+│  Use `shopify theme dev` instead.                                            │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+╭─ error ──────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│  A store is required                                                         │
+│                                                                              │
+│  Specify the store passing `--store={your_store_url}` or set the             │
+│  `SHOPIFY_FLAG_STORE` environment variable.                                  │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+Ordinateur-portable-de-Rayane:my-new-theme rayanemouhajer$ cd my-new-theme
+-bash: cd: my-new-theme: No such file or directory
+Ordinateur-portable-de-Rayane:my-new-theme rayanemouhajer$ 
+pwd
+ls
+shopify theme dev --store v9zudt-zd.myshopify.com
+nano ~/.zshrc
+source ~/.zshrc
+echo $SHOPIFY_FLAG_STORE
+shopify theme dev
+cd my-new-theme
+cd my-new-theme
+ssh root@157.245.77.111
+ssh root@157.245.77.111
+00~ls -l vendor01~
+00~ls -l vendor01~
+00~ls -l vendor01~
+00~ls -l vendor01~
+00~composer install01~
+00~ssh root@157.245.77.11101~
+00~ssh root@157.245.77.11101~
+00~Mac:~ rayanemouhajer$ 00~composer install01~
+-bash: 00~composer: command not found
+Mac:~ rayanemouhajer$ 00~ssh root@157.245.77.11101~
+-bash: 00~ssh: command not found
+Mac:~ rayanemouhajer$ 00~ssh root@157.245.77.11101~
+-bash: 00~ssh: command not found
+Mac:~ rayanemouhajer$ 
+01~
+ssh root@157.245.77.111
+rm -rf vendor
+docker-compose down -v
+docker-compose up -d --build
+docker ps

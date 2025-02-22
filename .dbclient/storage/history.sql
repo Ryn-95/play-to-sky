@@ -1,0 +1,8 @@
+/* 2024-07-23 10:26:02 [16 ms] */ 
+SELECT * FROM "Books" LIMIT 100;
+/* 2024-07-23 11:16:30 [4 ms] */ 
+SELECT * FROM "Users" LIMIT 100;
+/* 2024-07-23 14:48:57 [4 ms] */ 
+SELECT * FROM "Books" LIMIT 100;
+/* 2024-07-29 12:51:36 [38 ms] */ 
+SET NAMES 'utf8';

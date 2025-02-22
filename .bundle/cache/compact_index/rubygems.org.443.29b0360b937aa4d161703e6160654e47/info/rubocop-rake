@@ -1,0 +1,9 @@
+---
+0.1.0 rubocop:>= 0|checksum:169d9626b65f5e8c94c05a66c61697b4d74a1b770fda15e572497af79430c97f,ruby:>= 2.3.0
+0.2.0 rubocop:>= 0|checksum:be5232981e466f7cffe2f8a82acd182735a8f5e803fa91fbd2b09adeffe159a9,ruby:>= 2.4.0
+0.3.0 rubocop:>= 0|checksum:ec6abda08ae3385b4f4fa38110304fe3f27d065830b0de58725474c7ab58643c,ruby:>= 2.4.0
+0.3.1 rubocop:>= 0|checksum:3699d813ecd4a0b39647ac078a4c390c782fa0f942a2b26d7830581da87b4f11,ruby:>= 2.4.0
+0.4.0 rubocop:>= 0|checksum:419a28616cf03593e80b437e21cafd5bdec3b5ec3ced1788ac922704179b9db6,ruby:>= 2.4.0
+0.5.0 rubocop:>= 0|checksum:3c9e1da7cf6b71f09a8b558999815c9c70c7d334b7000e47bb0b032901269d2a,ruby:>= 2.4.0
+0.5.1 rubocop:>= 0|checksum:bc5b38151a9debede471e204c4ae32266ca402611d03afb007a77e8b93c20313,ruby:>= 2.3.0
+0.6.0 rubocop:~> 1.0|checksum:56b6f22189af4b33d4f4e490a555c09f1281b02f4d48c3a61f6e8fe5f401d8db,ruby:>= 2.5.0

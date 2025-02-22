@@ -1,0 +1,75 @@
+{
+    "1721118848786/Cinemax#Cinemax#foreignKey": [
+        {
+            "constraint_name": "film_genre_id_fkey",
+            "table_schema": "public",
+            "table_name": "film",
+            "column_name": "genre_id",
+            "referenced_table": "genre",
+            "referenced_column": "genre_id"
+        },
+        {
+            "constraint_name": "film_salle_id_fkey",
+            "table_schema": "public",
+            "table_name": "film",
+            "column_name": "salle_id",
+            "referenced_table": "salle",
+            "referenced_column": "salle_id"
+        },
+        {
+            "constraint_name": "avis_film_id_fkey",
+            "table_schema": "public",
+            "table_name": "avis",
+            "column_name": "film_id",
+            "referenced_table": "film",
+            "referenced_column": "film_id"
+        },
+        {
+            "constraint_name": "avis_utilisateur_id_fkey",
+            "table_schema": "public",
+            "table_name": "avis",
+            "column_name": "utilisateur_id",
+            "referenced_table": "utilisateur",
+            "referenced_column": "utilisateur_id"
+        },
+        {
+            "constraint_name": "reservation_utilisateur_id_fkey",
+            "table_schema": "public",
+            "table_name": "reservation",
+            "column_name": "utilisateur_id",
+            "referenced_table": "utilisateur",
+            "referenced_column": "utilisateur_id"
+        },
+        {
+            "constraint_name": "reservation_film_id_fkey",
+            "table_schema": "public",
+            "table_name": "reservation",
+            "column_name": "film_id",
+            "referenced_table": "film",
+            "referenced_column": "film_id"
+        },
+        {
+            "constraint_name": "reservation_salle_id_fkey",
+            "table_schema": "public",
+            "table_name": "reservation",
+            "column_name": "salle_id",
+            "referenced_table": "salle",
+            "referenced_column": "salle_id"
+        }
+    ],
+    "1721118848786/mydatabase#mydatabase#foreignKey": [],
+    "1721118848786/task_management_db#task_management_db#foreignKey": [
+        {
+            "constraint_name": "Tasks_userId_fkey",
+            "table_schema": "public",
+            "table_name": "Tasks",
+            "column_name": "userId",
+            "referenced_table": "Users",
+            "referenced_column": "id"
+        }
+    ],
+    "1721118848786/simple_crud_api#simple_crud_api#foreignKey": [],
+    "1721118848786/postgres#postgres#foreignKey": [],
+    "1721118848786/library_management_dev#library_management_dev#foreignKey": [],
+    "1721118848786#undefined#foreignKey": []
+}

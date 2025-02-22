@@ -1,0 +1,36 @@
+{
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1737312728617
+	},
+	"usage": false,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "116382660629244001537",
+		"email": "mouhajerrayane9y@gmail.com",
+		"email_verified": true,
+		"at_hash": "CYGxztph4CVxv6qisPFtOQ",
+		"iat": 1737312742,
+		"exp": 1737316342
+	},
+	"tokens": {
+		"expires_at": 1737316341636,
+		"access_token": "ya29.a0ARW5m74Ko_tE76Vynmdv_hKH5_HroXv0Wieo6XQ83RB3AxSBOaDRCMjI7GGDyrkXS4w5N2ApnPDN1b0wYfSGkyI8I0Ip6GwEHvHxte2pe3fnybXKWQhK2USBU2fhFJ2h_YQ33EtCO5w5RZlnZb6ttbW3E59VYPDh9wjwIa2AxvUT1gaCgYKAfcSARISFQHGX2Mi2uUmuiaWL1uGJQcCL__Vbg0181",
+		"expires_in": 3599,
+		"refresh_token": "1//03VZb-Npolky2CgYIARAAGAMSNwF-L9IrBgrUj5fYs2ewLr2-pf1Jc22GeymjnHYTP-lNpnKEOR4Laaw2qcFqAPKHICvY5EJoDe0",
+		"scope": "https://www.googleapis.com/auth/cloudplatformprojects.readonly openid https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/firebase",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImRkMTI1ZDVmNDYyZmJjNjAxNGFlZGFiODFkZGYzYmNlZGFiNzA4NDciLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTE2MzgyNjYwNjI5MjQ0MDAxNTM3IiwiZW1haWwiOiJtb3VoYWplcnJheWFuZTl5QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiQ1lHeHp0cGg0Q1Z4djZxaXNQRnRPUSIsImlhdCI6MTczNzMxMjc0MiwiZXhwIjoxNzM3MzE2MzQyfQ.PCNuQxsjtyffyl71RcsfZnSs4eUWfeAEGivsQ__RH-AjIuTd3NnA9DDL70hnvz4RrmwWGcUEHhQpBTGVXzEgI-b414dvpl5OZV0pFQaabIvHY-EJTANY2WyHtRTs1xyTxcJTHvBx21wdPUO_nqYyoMg-zxY3AgQ3_DgoDgPAFHWXaYe8FYtH2X7JfmEbTrdCm-1VuRTb9gjOwnCBwVMHx-8J3EWVlDStB8Qmy2B0xShI4zOmcn4N-9r69jCv5N6XeNANBSqoD8FyrGGeT7PULr1MwH610RDCCoUT0zR4SFxrvcDumD-A6EB_mqN495ynkg_84hoayLIdE-iyJcvA9Q"
+	},
+	"activeProjects": {
+		"/Users/rayanemouhajer/Documents/Rboost": "rboost-9c834"
+	}
+}
